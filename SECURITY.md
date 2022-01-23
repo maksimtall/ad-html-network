@@ -7,7 +7,7 @@
 | ------- | ------------------ |
 | 1.3.2x   | :white_check_mark: |
 | 1.2.3   | :x:                |
-| 1.3.5   | :white_check_mark: |
+| 1.3.3   | :white_check_mark: |
 | < 1.3   | :x:                |
 
 ## removing a package error
