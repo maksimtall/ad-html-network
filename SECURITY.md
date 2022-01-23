@@ -5,12 +5,12 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.2.7x   | :white_check_mark: |
+| 1.3.2x   | :white_check_mark: |
 | 1.2.3   | :x:                |
-| 1.2.5   | :white_check_mark: |
+| 1.3.5   | :white_check_mark: |
 | < 1.3   | :x:                |
 
-## Reporting a Vulnerability
+## removing a package error
 
 IF you get file root bug
 
@@ -19,4 +19,3 @@ IF you get file root bug
 3. delete the app
 4. find supported version of package
 5. download supported package
-6. 
